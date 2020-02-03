@@ -26,3 +26,6 @@ This repository contains my machine learning handwritten notes from [Coursera Ma
 
 ## Future Readings
 - A more detailed course can be found at the official [CS 229 site](http://cs229.stanford.edu/) and the lectures can be found [in this playlist](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
+
+<img src="https://static.wixstatic.com/media/903056_f2b2a1cf13d74d3e8d41e7c6c209c5d5~mv2.png"
+     style="float: left; margin-right: 10px;" />
