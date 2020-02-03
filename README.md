@@ -1,5 +1,5 @@
 # Machine Learning Notes
-This repository contains machine learning handwritten notes from [Coursera Machine Learning course](https://www.coursera.org/learn/machine-learning).
+This repository contains my machine learning handwritten notes from [Coursera Machine Learning course](https://www.coursera.org/learn/machine-learning).
 <img src="https://qph.fs.quoracdn.net/main-qimg-1461a07bf1a2959fca2586a8af26b190"
      style="float: left; margin-right: 10px;" />
      
