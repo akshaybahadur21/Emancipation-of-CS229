@@ -23,3 +23,6 @@ This repository contains my machine learning handwritten notes from [Coursera Ma
 - [Recommender Systems](https://github.com/akshaybahadur21/ml-notes/blob/master/notes_md/recommender_systems.md)
 - [Collaborative Filtering](https://github.com/akshaybahadur21/ml-notes/blob/master/notes_md/collaborative_filtering.md)
 - [ML Pipelines](https://github.com/akshaybahadur21/ml-notes/blob/master/notes_md/ml_with_large_data_and_building_pipelines.md)
+
+## Future Readings
+- A more detailed course can be found at the official [CS 229 site](http://cs229.stanford.edu/) and the lectures can be found [in this playlist](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
