@@ -24,6 +24,21 @@ This repository contains my machine learning handwritten notes from [Coursera Ma
 - [Collaborative Filtering](https://github.com/akshaybahadur21/ml-notes/blob/master/notes_md/collaborative_filtering.md)
 - [ML Pipelines](https://github.com/akshaybahadur21/ml-notes/blob/master/notes_md/ml_with_large_data_and_building_pipelines.md)
 
+## Metrics to evaluate your machine learning model
+
+- **Classification Accuracy** is what we usually mean, when we use the term accuracy. It is the ratio of number of correct predictions to the total number of input samples.
+
+<img src="https://miro.medium.com/max/746/1*yRa2inzTnyASJOre93ep3g.gif"
+     style="float: left; margin-right: 10px;" />
+
+- **Logarithmic Loss or Log Loss**, works by penalising the false classifications. It works well for multi-class classification. When working with Log Loss, the classifier must assign probability to each class for all the samples. Suppose, there are N samples belonging to M classes, then the Log Loss is calculated as below : 
+
+<img src="https://miro.medium.com/max/746/1*yRa2inzTnyASJOre93ep3g.gif"
+     style="float: left; margin-right: 10px;" />
+     
+- 
+
+
 ## Future Readings
 - A more detailed course can be found at the official [CS 229 site](http://cs229.stanford.edu/) and the lectures can be found [in this playlist](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 
